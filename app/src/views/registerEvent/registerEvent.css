@@ -1,0 +1,25 @@
+
+.register-event{
+
+    width: 600px;
+
+}
+
+
+.former {
+
+    padding : 2px;
+}
+
+
+.btn-register {
+
+    background-color: #614ea6;
+    color: snow;
+}
+
+.btn-register:hover {
+
+    background-color: #f21667;
+    color: snow;
+}

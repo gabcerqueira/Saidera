@@ -1,0 +1,30 @@
+
+
+
+
+.footer-card {
+    color: #614ea6;
+}
+
+.btn-detail {
+    background-color: #614ea6;
+    color:snow;
+    
+}
+
+.btn-detail:hover {
+    background-color: #f21667;
+    color: snow;
+}
+
+.card-text{
+    max-height: 70px;
+    min-height: 70px;
+    overflow: hidden;
+    
+}
+.img-card{
+    max-height: 150px;
+    min-height: 100px;
+    min-width: 100px;
+}

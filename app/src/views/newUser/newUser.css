@@ -1,0 +1,21 @@
+.form-register {
+
+    max-height: 800px;
+    max-width: 450px;
+    
+}
+
+
+
+.btn-register {
+
+    background-color: #614ea6;
+    color: snow;
+}
+
+.btn-register:hover {
+
+    background-color: #f21667;
+    color: snow;
+}
+

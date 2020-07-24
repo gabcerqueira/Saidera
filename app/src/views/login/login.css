@@ -1,0 +1,53 @@
+
+
+.login-content{
+
+    width: 100%;
+    padding: 10.5%;
+    margin: auto;
+    background-color: #614EA6;
+    height: 100vh;
+}
+
+.btn-login{
+    background-color: snow;
+    
+}
+
+.btn-login:hover{
+    background-color: #f21667;
+    color:  snow;
+    transition: .3s ease-in;
+}
+
+.login-label{
+    color: snow;
+    
+}
+
+.opcoes-login a{
+    text-decoration: none;
+    color: snow;
+    transition: .3s ease-in;
+
+}
+
+.opcoes-login a:hover{
+    
+    color: rgb(235, 27, 27);
+
+}
+
+
+
+
+
+
+
+
+
+
+.footer-date{
+
+    color: snow;
+}

@@ -1,0 +1,36 @@
+.footer-main{
+
+    background-color: #614ea6;
+    color: snow;
+    position: relative;
+}
+
+.social-media {
+    display: flex;
+    flex-direction: row;
+}
+
+.social-media ul {
+    display: flex;
+    flex-direction: column;
+    
+    
+   
+}
+
+.social-media li {
+    color:snow;
+    justify-content: space-around;
+    padding: 3px;
+}
+
+.social-media li i{
+    color:snow;
+
+}
+
+.social-media li i:hover{
+    color:#fa2167;
+
+}
+

@@ -1,0 +1,22 @@
+.navbar {
+    background-color: #614ea6;
+}
+
+.nav-link {
+    color: snow;
+    transition: .3s ease-in;
+
+}
+
+.nav-link:hover{
+    color: rgb(233, 22, 22);
+}
+
+i:hover{
+    transition: .3s ease-in;
+    color: rgb(233, 22, 22);
+}
+
+
+
+
