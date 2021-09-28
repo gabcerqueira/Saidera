@@ -1,6 +1,13 @@
 # Projeto-Saidera
 Este projeto é uma aplicação de publicação de eventos desenvolvida no curso de React JS + Firebase + Bootstrap.
 
+Screenshots : 
+
+![image](https://user-images.githubusercontent.com/43377719/135109573-c5645bc9-bf92-4588-bdf0-9880b22ca87f.png)
+
+![image](https://user-images.githubusercontent.com/43377719/135109369-120e3282-b4a6-4b14-b553-bf7e08d3a85d.png)
+
+![image](https://user-images.githubusercontent.com/43377719/135109677-2ddeb8c7-74f6-463b-a54b-67b378da1b5a.png)
 
 
 O que faz essa aplicacão?
